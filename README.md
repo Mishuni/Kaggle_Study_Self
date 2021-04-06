@@ -15,6 +15,15 @@ Kaggle tutorials
 
 
 
+#### 2.  [Porto](./2_Porto_competition)
+
+> target : target ( binary data 0,1)
+>
+> kaggle url : https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+
+* [kenel 1st](./2_Porto_competition/porto_kernel1.ipynb) : https://www.kaggle.com/bertcarremans/data-preparation-exploration
+* 
+
 
 
 #### 5.  [Statoil](./5_Statoil_competition)
