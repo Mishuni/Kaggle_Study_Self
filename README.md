@@ -12,8 +12,8 @@ Kaggle tutorials
 
 * [kenel 1st](./1_Titanic_competition/titanic_kernel1.ipynb) : https://kaggle-kr.tistory.com/17?category=868316
 * [kenel 2st](./1_Titanic_competition/titanic_kernel2.ipynb) : https://kaggle-kr.tistory.com/18
-
-
+* [kenel 3st](./1_Titanic_competition/titanic_kernel3.ipynb) : https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling
+  
 
 #### 2.  [Porto](./2_Porto_competition)
 
